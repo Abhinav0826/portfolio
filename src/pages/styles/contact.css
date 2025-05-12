@@ -1,0 +1,80 @@
+.contact-logo-container {
+	display: flex;
+	justify-content: left;
+	padding-top: 25px;
+}
+
+.contact-logo {
+	display: flex;
+	position: fixed;
+	border: 1px solid white;
+	border-radius: 50%;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+	top: 4vh;
+}
+
+.contact-subtitle {
+	width: 100% !important;
+}
+
+.contact-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin-top: 120px;
+}
+
+
+.socials-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.contact-socials {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.email-wrapper1 {
+	display: flex;
+	padding-bottom: 20px;
+	margin-top: 35px;
+}
+
+.email-wrapper1 a {
+	text-decoration: none;
+}
+.email-wrapper2 {
+	display: flex;
+	padding-bottom: 20px;
+}
+
+.email-wrapper2 a {
+	text-decoration: none;
+}
+.about-subtitle {
+	width: 80% !important;
+	color: #65656d;
+	
+}
+.resumediv{
+	padding-top: 2%;
+}
+.resumebutton:link, .resumebutton:visited {
+	border-style: solid;
+	border-color: #4495BB;
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+  }
+  
+  .resumebutton:hover, .resumebutton:active {
+	background-color: #4495BB;
+	color: white;
+  }
+  .res{
+	color: #65656d;
+	margin-top: 15px;
+  }
