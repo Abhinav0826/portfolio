@@ -4,7 +4,7 @@
 This is my personal portfolio website built using **React**, **Tailwind CSS**, and **Bootstrap**. It showcases who I am, my interests in web development and machine learning, my skills, the projects I’ve worked on, work experience, and how to get in touch with me.
 
 ## Live Demo
-[Visit Website](https://magenta-rugelach-eea57f.netlify.app/)
+[View Website](https://magenta-rugelach-eea57f.netlify.app/)
 
 ## Features
 - **Homepage** – A clean landing page with an introduction.
