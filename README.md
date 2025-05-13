@@ -3,7 +3,7 @@
 
 This is my personal portfolio website built using **React**, **Tailwind CSS**, and **Bootstrap**. It showcases who I am, my interests in web development and machine learning, my skills, the projects I’ve worked on, work experience, and how to get in touch with me.
 
-## 🚀 Live Demo
+## Live Demo
 [Visit Website](https://magenta-rugelach-eea57f.netlify.app/)
 
 ## Features
@@ -17,7 +17,7 @@ This is my personal portfolio website built using **React**, **Tailwind CSS**, a
 ## Screenshots  
 ![homepage1](https://github.com/user-attachments/assets/69c1247a-e184-4191-93ef-398ba4fb35f4)
 
-Find how the project looks in screenshots folder Or [click here]()
+Find how the project looks in screenshots folder Or [click here](https://github.com/Abhinav0826/portfolio/tree/main/Screenshots)
 
 
 ## Tech Stack 
